@@ -1,1 +1,1 @@
-const pair = "extradinaireV3";
+const pairBadge = "extradinaireV4";
